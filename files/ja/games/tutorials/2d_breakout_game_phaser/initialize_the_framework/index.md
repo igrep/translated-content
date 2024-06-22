@@ -9,9 +9,9 @@ l10n:
 
 {{PreviousNext("Games/Workflows/2D_Breakout_game_Phaser", "Games/Workflows/2D_Breakout_game_Phaser/Scaling")}}
 
-This is the first of 16 tutorials to learn how to use [Gamedev Phaser](/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser). After completing this tutorial you can find the source code for this section at [Gamedev-Phaser-Content-Kit/demos/lesson01.html](https://github.com/end3r/Gamedev-Phaser-Content-Kit/blob/gh-pages/demos/lesson01.html).
+こちらは、[Gamedev Phaser](/ja/docs/Games/Tutorials/2D_breakout_game_Phaser) の使い方を学ぶための 16 のチュートリアルの一つ目です。このチュートリアルを完了した後は、このセクションのソースコードを [Gamedev-Phaser-Content-Kit/demos/lesson01.html](https://github.com/end3r/Gamedev-Phaser-Content-Kit/blob/gh-pages/demos/lesson01.html)でチェックしてみてください。
 
-Before we can start writing the game's functionality, we need to create a basic structure to render the game inside. This can be done using HTML — the Phaser framework will generate the required {{htmlelement("canvas")}} element.
+ゲームの機能を書き始める前に、ゲームをレンダリングするための基本的な構造を作成する必要があります。これには HTMLを使用しましょう。Phaser フレームワークが必要な {{htmlelement("canvas")}} 要素を生成してくれます。
 
 ## The game's HTML
 
